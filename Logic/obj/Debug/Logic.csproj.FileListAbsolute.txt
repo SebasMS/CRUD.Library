@@ -1,0 +1,13 @@
+A:\Documentos\Visual Studio 2013\Projects\CRUD.Library\Logic\bin\Debug\Logic.dll
+A:\Documentos\Visual Studio 2013\Projects\CRUD.Library\Logic\bin\Debug\Logic.pdb
+A:\Documentos\Visual Studio 2013\Projects\CRUD.Library\Logic\bin\Debug\ConnectionLibrary.dll
+A:\Documentos\Visual Studio 2013\Projects\CRUD.Library\Logic\bin\Debug\ConnectionLibrary.pdb
+A:\Documentos\Visual Studio 2013\Projects\CRUD.Library\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+A:\Documentos\Visual Studio 2013\Projects\CRUD.Library\Logic\obj\Debug\Logic.dll
+A:\Documentos\Visual Studio 2013\Projects\CRUD.Library\Logic\obj\Debug\Logic.pdb
+C:\Users\jmoram\Documents\Visual Studio 2013\Projects\CRUD.Library\Logic\bin\Debug\Logic.dll
+C:\Users\jmoram\Documents\Visual Studio 2013\Projects\CRUD.Library\Logic\bin\Debug\Logic.pdb
+C:\Users\jmoram\Documents\Visual Studio 2013\Projects\CRUD.Library\Logic\bin\Debug\ConnectionLibrary.pdb
+C:\Users\jmoram\Documents\Visual Studio 2013\Projects\CRUD.Library\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\jmoram\Documents\Visual Studio 2013\Projects\CRUD.Library\Logic\obj\Debug\Logic.dll
+C:\Users\jmoram\Documents\Visual Studio 2013\Projects\CRUD.Library\Logic\obj\Debug\Logic.pdb

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Parameters>
+  <Server>ip servidor</Server>
+  <Database>nombre base de datos</Database>
+  <User>usuario de sql server</User>
+  <Password>contraseña de sql server</Password>
+  <IntegrateSecurity>seguridad integrada (true, false)</IntegrateSecurity>
+</Parameters>
